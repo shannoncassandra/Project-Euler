@@ -1,4 +1,5 @@
 # Calculate the sum of all natural numbers below 1000 that are multiples of 3 or 5
+# % is what the remainder would be. For i (any number) in a range from 1 to 100, how many number would have no remainder after being divided by 3 or 5
 
 total = 0
 for i in range(1000):
